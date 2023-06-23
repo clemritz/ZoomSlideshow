@@ -275,7 +275,7 @@ main {
 	font-size: 35px;
 	transition: opacity 0.3s;
 }
-
+/* test */
 .slider-nav__item span {
 	display: inline-block;
 	pointer-events: none;
